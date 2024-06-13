@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Grace Easterbrook
-  🐟 I'm a fish biologist with the U.S. Bureau of Reclamation in the Bay Delta Office's Science Division
-- 🌱 I’m currently learning ...
+- 🐟 I'm a fish biologist with the U.S. Bureau of Reclamation in the Bay Delta Office's Science Division
 - 📫 How to reach me geasterbrook@usbr.gov
 - 😄 Pronouns: she/her
 
